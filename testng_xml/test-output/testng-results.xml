@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="50" started-at="2016-02-29T05:29:29Z" finished-at="2016-02-29T05:29:29Z">
+  <suite name="Suite" duration-ms="45" started-at="2016-02-29T06:25:53Z" finished-at="2016-02-29T06:25:53Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="50" started-at="2016-02-29T05:29:29Z" finished-at="2016-02-29T05:29:29Z">
+    <test name="Test" duration-ms="45" started-at="2016-02-29T06:25:53Z" finished-at="2016-02-29T06:25:53Z">
       <class name="folder1.A">
-        <test-method status="PASS" signature="m1()[pri:0, instance:folder1.A@66af20]" name="m1" duration-ms="22" started-at="2016-02-28T21:29:29Z" finished-at="2016-02-28T21:29:29Z">
+        <test-method status="PASS" signature="m1()[pri:0, instance:folder1.A@4466af20]" name="m1" duration-ms="18" started-at="2016-02-28T22:25:53Z" finished-at="2016-02-28T22:25:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
       </class> <!-- folder1.A -->
       <class name="folder2.B">
-        <test-method status="PASS" signature="m2()[pri:0, instance:folder2.B@1239d7d]" name="m2" duration-ms="0" started-at="2016-02-28T21:29:29Z" finished-at="2016-02-28T21:29:29Z">
+        <test-method status="PASS" signature="m2()[pri:0, instance:folder2.B@5b239d7d]" name="m2" duration-ms="0" started-at="2016-02-28T22:25:53Z" finished-at="2016-02-28T22:25:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m2 -->
